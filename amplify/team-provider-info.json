@@ -1,0 +1,14 @@
+{
+    "kita": {
+        "awscloudformation": {
+            "AuthRoleName": "myapp-kita-20190619100816-authRole",
+            "UnauthRoleArn": "arn:aws:iam::070277303818:role/myapp-kita-20190619100816-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::070277303818:role/myapp-kita-20190619100816-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "myapp-kita-20190619100816-deployment",
+            "UnauthRoleName": "myapp-kita-20190619100816-unauthRole",
+            "StackName": "myapp-kita-20190619100816",
+            "StackId": "arn:aws:cloudformation:us-east-2:070277303818:stack/myapp-kita-20190619100816/c6563910-9271-11e9-99c2-0633f2d4cbb0"
+        }
+    }
+}
